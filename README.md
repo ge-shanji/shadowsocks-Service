@@ -3,7 +3,7 @@ Service For Linux
 
 ## 1. Download SHELL file
 
-wget --no-check-certificate  https://raw.githubusercontent.com/teddysun/shadowsocks_install/master/shadowsocks.sh  
+wget --no-check-certificate  https://raw.githubusercontent.com/ge-shanji/shadowsocks-Service/master/shadowsocks.sh 
 
 ## 2. Execute a command
 
